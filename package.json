@@ -1,0 +1,25 @@
+{
+  "name": "act2-b3-by-pablo-requena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pablo-Rf8/ACT2-B3-BY-Pablo-Requena.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pablo-Rf8/ACT2-B3-BY-Pablo-Requena/issues"
+  },
+  "homepage": "https://github.com/Pablo-Rf8/ACT2-B3-BY-Pablo-Requena#readme",
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "ts-node": "^10.9.2",
+    "typescript": "5.6"
+  }
+}
